@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/factory-pattern-rusiana/static/css/main.44fa9008.css",
+    "main.js": "/factory-pattern-rusiana/static/js/main.e09e8745.js",
+    "static/js/787.dde2649c.chunk.js": "/factory-pattern-rusiana/static/js/787.dde2649c.chunk.js",
+    "index.html": "/factory-pattern-rusiana/index.html",
+    "main.44fa9008.css.map": "/factory-pattern-rusiana/static/css/main.44fa9008.css.map",
+    "main.e09e8745.js.map": "/factory-pattern-rusiana/static/js/main.e09e8745.js.map",
+    "787.dde2649c.chunk.js.map": "/factory-pattern-rusiana/static/js/787.dde2649c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fa9008.css",
+    "static/js/main.e09e8745.js"
+  ]
+}
