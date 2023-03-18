@@ -4,7 +4,7 @@ export const ButtonFactory = (props) => {
 
   return (
     <button 
-        className='active:scale-[0.9] hover:opacity-[0.8]'
+        className='active:scale-[0.9] hover:opacity-[0.8] shadow-md'
         style={{
             backgroundColor: (props.color),
             height: (props.height),
